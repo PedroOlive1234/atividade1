@@ -21,8 +21,8 @@ console.log("Objeto:", objeto);
 // Criando 5 arrays com 5 itens diferentes
 let array1 = [1, 2, 3, 4, 5];
 let array2 = ['a', 'b', 'c', 'd', 'e'];
-let array3 = [true, false, true, false, true];
-let array4 = ['apple', 'banana', 'orange', 'grape', 'kiwi'];
+let array3 = [true, false, "true", "false", false];
+let array4 = ['apple', 'morango', 'orange', 'grape', 'kiwi'];
 let array5 = [10, 20, 30, 40, 50];
 
 // Modificando os arrays conforme os requisitos
@@ -105,34 +105,3 @@ console.log("Objeto 1:", objeto1);
 console.log("Objeto 2:", objeto2);
 console.log("jogador:", jogador);
 console.log("Objeto Combinado:", objetoCombinado);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
